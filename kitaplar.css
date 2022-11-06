@@ -1,0 +1,46 @@
+/* Kitaplarım CSS */
+body
+{
+background-color: #A3C7D6;
+}
+
+h1 
+{
+text-align: center;
+border: 1rem solid;
+border-width: 4px;
+
+}
+
+nav 
+{
+text-align: center;
+}
+
+#books li
+{
+   list-style-type: none;
+}
+
+#books img
+{
+   width: 200px;
+   height: 300px;
+   margin: 0px 20px ;
+}
+
+#book1
+{
+   display: flex;  
+}
+
+#book2
+{
+   display: flex;
+}
+
+#buton img
+{
+   margin-left: 1390px;
+
+}

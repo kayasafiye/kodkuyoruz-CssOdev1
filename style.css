@@ -1,0 +1,24 @@
+/* Index CSS*/
+body 
+{
+background-color:#D58BDD;
+}
+
+h1 
+{
+text-align: center;
+border: 1rem solid;
+border-width: 4px;
+
+}
+
+nav 
+{
+text-align: center;
+}
+
+section
+{
+   margin-left: 600px;
+}
+
